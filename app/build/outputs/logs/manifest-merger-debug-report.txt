@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:1:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/0e8396ddb9e9552cd89256db488f16b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/ec99ad52e0a4dee6e01e5edc6407e3ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/ba02141066da531bad6300377a0b8553/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/eb39d297d854530688f8e8b5f4476e53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/3c6785105e422203663c6d61e108a8c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/cc0282d07bf2564e3945c378ae22db1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/3a5b4903b36b5e612489166de720a5b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/a174bf2d5026d8e337a9d9df53c05eaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/3e1fac5d81acf4c6351fd226a105fb41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/2c147ec49a322f7b69468a811817c2f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/392e0a43a2b25a3ac4aea57992a4a88a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/64a4f207b3315fd52c7fc82c4b14d331/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/57fd10671778079fe49ec6b53c0fdaef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/11ffad5c3beff4efce493814ca45af08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/e745db230f8915c3c30f337c7d76d057/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/b454aecf1666d5098c8080767f9b051c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/c2fcc2d91e4bbb87eb88b8bcdc570d72/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/d649a45df7a712fe15b5068676ba1373/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/0a001772bd4ced7aac2dee1792c87ab7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/2a640b23b548f67dda0402cf802eaa8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/4c9c463a1adfa18ddbb9df2fae25dce7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/cd9a5b368a60944e845faf5fbdb37e4b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/248d41347019ca97c513d30b41cee678/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/230b1b6eefa4b1ced25eafd3876f2669/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/e51dbe77d118bc0cb7751d1cdca1d984/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/db4bfcd5a416baef6f5d339450937883/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:2:5-49
+		INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:4:5-10:43
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/e745db230f8915c3c30f337c7d76d057/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/e745db230f8915c3c30f337c7d76d057/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/b454aecf1666d5098c8080767f9b051c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/b454aecf1666d5098c8080767f9b051c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/e745db230f8915c3c30f337c7d76d057/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml:10:9-40
+uses-sdk
+INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/0e8396ddb9e9552cd89256db488f16b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/0e8396ddb9e9552cd89256db488f16b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/ec99ad52e0a4dee6e01e5edc6407e3ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/ec99ad52e0a4dee6e01e5edc6407e3ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/ba02141066da531bad6300377a0b8553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/ba02141066da531bad6300377a0b8553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/eb39d297d854530688f8e8b5f4476e53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/eb39d297d854530688f8e8b5f4476e53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/3c6785105e422203663c6d61e108a8c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/3c6785105e422203663c6d61e108a8c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/cc0282d07bf2564e3945c378ae22db1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/cc0282d07bf2564e3945c378ae22db1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/3a5b4903b36b5e612489166de720a5b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/3a5b4903b36b5e612489166de720a5b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/a174bf2d5026d8e337a9d9df53c05eaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/a174bf2d5026d8e337a9d9df53c05eaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/3e1fac5d81acf4c6351fd226a105fb41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/3e1fac5d81acf4c6351fd226a105fb41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/2c147ec49a322f7b69468a811817c2f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/2c147ec49a322f7b69468a811817c2f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/392e0a43a2b25a3ac4aea57992a4a88a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/392e0a43a2b25a3ac4aea57992a4a88a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/64a4f207b3315fd52c7fc82c4b14d331/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/64a4f207b3315fd52c7fc82c4b14d331/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/57fd10671778079fe49ec6b53c0fdaef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/57fd10671778079fe49ec6b53c0fdaef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/11ffad5c3beff4efce493814ca45af08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/11ffad5c3beff4efce493814ca45af08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/e745db230f8915c3c30f337c7d76d057/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/e745db230f8915c3c30f337c7d76d057/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/b454aecf1666d5098c8080767f9b051c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/b454aecf1666d5098c8080767f9b051c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/c2fcc2d91e4bbb87eb88b8bcdc570d72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/c2fcc2d91e4bbb87eb88b8bcdc570d72/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/d649a45df7a712fe15b5068676ba1373/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/d649a45df7a712fe15b5068676ba1373/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/0a001772bd4ced7aac2dee1792c87ab7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/0a001772bd4ced7aac2dee1792c87ab7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/2a640b23b548f67dda0402cf802eaa8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/2a640b23b548f67dda0402cf802eaa8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/4c9c463a1adfa18ddbb9df2fae25dce7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/4c9c463a1adfa18ddbb9df2fae25dce7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/cd9a5b368a60944e845faf5fbdb37e4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/cd9a5b368a60944e845faf5fbdb37e4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/248d41347019ca97c513d30b41cee678/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/248d41347019ca97c513d30b41cee678/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/230b1b6eefa4b1ced25eafd3876f2669/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/230b1b6eefa4b1ced25eafd3876f2669/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/e51dbe77d118bc0cb7751d1cdca1d984/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/e51dbe77d118bc0cb7751d1cdca1d984/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/db4bfcd5a416baef6f5d339450937883/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ericdiaz/.gradle/caches/transforms-2/files-2.1/db4bfcd5a416baef6f5d339450937883/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ericdiaz/AndroidStudioProjects/RxJava2OkHttpWebSocket/app/src/main/AndroidManifest.xml
